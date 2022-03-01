@@ -57,7 +57,7 @@ function loadAnimeQuotes(quoteObj){
             quoteList.appendChild(li);
         }
     }
-    else{ //loads random quote
+    else{ //loads a random quote
         let li = makeQuote(quoteObj);
         quoteList.appendChild(li);
     }

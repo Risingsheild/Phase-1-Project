@@ -16,4 +16,6 @@ If you are trying to choose the best qoute for your inspiration i would trying u
 - Random quote 
 - 10 random Quotes 
 
+
+## Anime List
  The fifth option gives you an idea of all the anime's from which the API can source their qoutes 
